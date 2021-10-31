@@ -10,7 +10,7 @@ div {
     border-color: turquoise;
     display: inline-block;
     text-align: left;
-    padding: 100px 0 0 0;
+    margin: 35px;
 }
 
 h1 {
